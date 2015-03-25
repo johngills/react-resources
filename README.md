@@ -5,3 +5,6 @@
 
 ##Intro Tutorials
 [Shape Editor](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
+
+##Other Resource Collections
+[enaqx's Collection of Awesome](https://github.com/enaqx/awesome-react)
